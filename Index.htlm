@@ -1,0 +1,118 @@
+
+<!DOCTYPE html>
+<title>Nicolas HOUY's profile</title>
+
+                <meta name="description" content="This is the profil of Nicolas">
+
+                <meta charset="utf-8">
+
+                <script src="https://kit.fontawesome.com/94993eeda6.js" crossorigin="anonymous"></script>
+
+                <link rel="stylesheet" href="style.css">
+
+                <link rel="preconnect" href="https://fonts.googleapis.com">
+
+                <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap" rel="stylesheet">
+</head>
+
+ 
+
+<body>
+
+ 
+
+<div class="container">
+
+                <div class="card-white" id="intro">
+
+                               <h1> Hello, I'm Nicolas </h1>
+
+                               <img src="images/profile.jpg" class="img-circle" alt= "Nicolas HOUY">
+
+                               <p>
+
+                                               I am passionate with travelling, my dream is to go in every country in the world ✈️
+
+                                              
+
+                               </p>
+
+                                               <a href="https://www.photographesdumonde.com//" class="btn-blue">Discover photographesdumonde</a>
+
+                </div>
+
+                <div class="card-white">
+
+                               <h2>Cooking 🍰 </h2>
+
+                               <p>
+
+                               I am passionate about cooking and I regularly take courses to improve myself
+
+                               </p>
+
+                </div>
+
+                <div class="card-white">
+
+ 
+
+                               <h2>I love sports 🏆 </h2>
+
+                               <p>I am passionate about sport and especially hockey 🏒 </p>
+
+                </div>
+
+                <div class="card-white">
+
+                               <h2>fan of cinema 🎞️ </h2>
+
+                               <p> I love watching films,series and that's why I took a subscribe to netflix,HBO and Prime Video</p>
+
+                </div>
+
+               <div class="card-white">
+
+                              <h2>Follow me</h2>
+
+ 
+
+                               <ul class="list-inline">
+
+                                               <li>
+
+                                                               <a href="https://www.facebook.com/houy.nicolas.7
+
+                                               https://www.facebook.com/houy.nicolas.7"><i class="fa-brands fa-facebook-square"></i></a>
+
+                                               </li>      
+
+                                               <li>
+
+                                                               <a href="https://twitter.com"><i class="fa-brands fa-twitter-square"></i></a>
+
+ 
+
+                                               </li>
+
+                                               <li>
+
+                                                               <a href="https://www.instagram.com"><i class="fa-brands fa-instagram-square"></i></a>
+
+                                               </li>
+
+ 
+
+                               </ul>
+
+                </div>
+
+</div>
+
+ 
+
+</body>
+
+</html>
